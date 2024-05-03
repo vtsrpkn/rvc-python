@@ -5,3 +5,5 @@ base_model
 dist
 rvc_python/base_model
 out
+input.mp3
+models
